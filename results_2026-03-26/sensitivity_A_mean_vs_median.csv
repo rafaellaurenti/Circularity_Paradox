@@ -1,0 +1,7 @@
+Category,Selector,n,Skewness,Ref. price (SEK),Retail (SEK),VR (%),CRE_ZBA (%),CRE_EAA (%)
+Cars,Mean-based,22679,1.47,70290,359000,19.6,92,115
+Cars,Median-based,22679,1.47,45500,359000,12.7,92,106
+Clothes & shoes,Mean-based,15788,1.86,1221,1599,76.4,137,580
+Clothes & shoes,Median-based,15788,1.86,700,1599,43.8,137,244
+Boats,Mean-based,3796,2.5,124435,220000,56.6,115,265
+Boats,Median-based,3796,2.5,65000,220000,29.5,115,163
