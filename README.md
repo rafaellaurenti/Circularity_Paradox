@@ -1,11 +1,8 @@
 # The circularity paradox in secondhand markets
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+Supplementary material for:
 
-Reproducibility package for:
-
-> Laurenti, R. (2026). The circularity paradox in secondhand markets: value retention, allocation, and rebound effects. *Resources, Conservation & Recycling*, XX(X), XXXXXX. https://doi.org/XX.XXXX/XXXXXXX
-
+> Laurenti, R. (2026). The circularity paradox in secondhand markets: value retention, allocation, and rebound effects. *Resources, Conservation & Recycling*, (Submitted)
 ## Overview
 
 This repository contains the code and input files needed to reproduce the analysis presented in the paper. The Jupyter notebook implements a complete pipeline that (i) cleans and summarises listing-level price data from a major Swedish online secondhand marketplace, (ii) projects retail prices and value retention ratios from manually curated reference products, (iii) derives cradle-to-gate carbon footprints using EXIOBASE 3.8.2 multi-regional input–output (MRIO) multipliers, (iv) estimates potential avoided emissions under both zero-burden and economic allocation, (v) models potential increased emissions from buyer and seller re-spending using Swedish household expenditure profiles, (vi) computes the circular rebound effect (CRE) for 32 product categories, and (vii) runs sensitivity analyses on reference product selection.
@@ -99,7 +96,7 @@ The notebook creates three output directories (`processed/`, `derived/`, `result
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the CC-BY-4.0 License.
 
 ## Citation
 
