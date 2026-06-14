@@ -94,10 +94,6 @@ The notebook creates three output directories (`processed/`, `derived/`, `result
 | Sensitivity analysis figure | `results/fig_sensitivity_cre.png` |
 | Sensitivity tables (A, B, C) | `results/sensitivity_*.csv` |
 
-## License
-
-This project is licensed under the CC-BY-4.0 License.
-
 ## Citation
 
 If you use this code or data, please cite the paper:

@@ -1,0 +1,13 @@
+Category,Price point,Price (SEK),Implied VR (%),CRE_ZBA (%),CRE_EAA (%)
+Cars,Q25,19500,5.4,92,98
+Cars,Median,45500,12.7,92,106
+Cars,Mean,70290,19.6,92,115
+Cars,Q75,99000,27.6,92,128
+Clothes & shoes,Q25,400,25.0,137,183
+Clothes & shoes,Median,700,43.8,137,244
+Clothes & shoes,Mean,1221,76.4,137,580
+Clothes & shoes,Q75,1500,93.8,137,2214
+Boats,Q25,22500,10.2,115,128
+Boats,Median,65000,29.5,115,163
+Boats,Mean,124435,56.6,115,265
+Boats,Q75,150000,68.2,115,362
